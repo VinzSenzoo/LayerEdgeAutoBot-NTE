@@ -287,7 +287,7 @@ async function main() {
   renderBanner();
 
   const channelPane2 = blessed.box({
-    top: '25%',
+    top: '30%',
     left: 2,
     width: '100%',
     height: 2,
